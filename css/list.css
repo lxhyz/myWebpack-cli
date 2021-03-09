@@ -1,0 +1,20 @@
+.box2 ul li {
+  background-color: red;
+}
+
+.box2 ul li:hover {
+  color: yellow;
+}
+
+.box3 {
+  width: 400px;
+  height: 400px;
+  background: url("./59.png") no-repeat;
+}
+
+.box4 {
+  width: 400px;
+  height: 400px;
+  background: url("./wx.jpg") no-repeat;
+}
+/*# sourceMappingURL=list.css.map */
